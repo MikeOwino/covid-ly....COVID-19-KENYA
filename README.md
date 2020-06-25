@@ -1,6 +1,6 @@
 # COVIDLY KENYA 🇰🇪
-[..](https://en.wikipedia.org/wiki/File:Flag_of_Kenya.svg)]
-
+[..]()]
+[![Deploy](https://en.wikipedia.org/wiki/File:Flag_of_Kenya.svg)](https://heroku.com/deploy)
 🦠 A coronavirus tracker bot for Telegram. 
 ## .........................................
 
