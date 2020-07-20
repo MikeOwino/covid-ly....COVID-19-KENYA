@@ -1,6 +1,6 @@
 # 🦠 Corona Pandemic Bot
 
-[**@coronapandemicbot**](https://t.me/coronapandemicbot) is a Telegram bot that tracks the worldwide spread of the COVID-19 disease.
+[**@coronaviruskenyabot**](https://t.me/coronapandemicbot) is a Telegram bot that tracks the worldwide spread of the COVID-19 disease.
 
 ## ✨ Features
 
@@ -8,12 +8,12 @@ Commands:
 - **/world** - Worldwide case statistics.
 - **/today**  - Summary of today's cases.
 - **/list** - List of countries ordered by number of cases.
-- **/[country]** - Case statistics for one country. Replace `[country]` with the country code or country name (e.g. /fr, /france).
+- **/[country]** - Case statistics for one country. Replace `[country]` with the country code or country name (e.g. /ke, /kenya).
 - **/subscribe** - Subscribe to daily status updates with new case statistics.
 - **/setcountry** - Set your country (for /today and daily updates).
 - **/help** - Show the help.
 
-You can use this bot in any Telegram chat without adding it by typing `@coronapandemicbot [country]`.
+You can use this bot in any Telegram chat without adding it by typing `@coronaviruskenyabot [country]`.
 
 ## 🛠 Setup
 
