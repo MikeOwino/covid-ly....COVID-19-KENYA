@@ -1,4 +1,4 @@
-# 🦠 Ccvid-ly
+# 🦠 Covid-ly
 
 [**@coronaviruskenyabot**](https://t.me/coronaviruskenyabot) is a Telegram bot that tracks the worldwide spread of the COVID-19 disease.
 
@@ -6,6 +6,7 @@
 
 Commands:
 - **/world** - Worldwide case statistics.
+-**/kenya** - Kenya's Summary
 - **/today**  - Summary of today's cases.
 - **/list** - List of countries ordered by number of cases.
 - **/[country]** - Case statistics for one country. Replace `[country]` with the country code or country name (e.g. /ke, /kenya).
