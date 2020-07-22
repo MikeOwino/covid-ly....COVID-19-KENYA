@@ -6,7 +6,7 @@
 
 Commands:
 - **/world** - Worldwide case statistics.
--**/kenya** - Kenya's Summary
+- **/kenya** - Kenya's Summary.
 - **/today**  - Summary of today's cases.
 - **/list** - List of countries ordered by number of cases.
 - **/[country]** - Case statistics for one country. Replace `[country]` with the country code or country name (e.g. /ke, /kenya).
