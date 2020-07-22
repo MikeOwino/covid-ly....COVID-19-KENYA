@@ -1,6 +1,6 @@
-# 🦠 Corona Pandemic Bot
+# 🦠 Ccvid-ly
 
-[**@coronaviruskenyabot**](https://t.me/coronapandemicbot) is a Telegram bot that tracks the worldwide spread of the COVID-19 disease.
+[**@coronaviruskenyabot**](https://t.me/coronaviruskenyabot) is a Telegram bot that tracks the worldwide spread of the COVID-19 disease.
 
 ## ✨ Features
 
