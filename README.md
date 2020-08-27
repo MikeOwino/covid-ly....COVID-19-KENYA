@@ -65,7 +65,7 @@
   </tbody>
 </table>
 
-<a href="https://mikeowino.com/jekyll_game/" target="_parent"><b><h1>mikeowino.com</h1></b></a>
+<a href="https://mikeowino.com/covid-19/" target="_parent"><b><h1>mikeowino.com</h1></b></a>
 
 
 # 🦠 Covid-ly <img src="https://image.flaticon.com/icons/svg/197/197608.svg" width="30"/>
