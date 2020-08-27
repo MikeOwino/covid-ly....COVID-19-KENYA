@@ -68,5 +68,3 @@
 <a href="https://mikeowino.com/jekyll_game/" target="_blank"><b><h1>mikeowino.com</h1></b></a>
 
 
-
-# included is my website with contact info via a cli.
