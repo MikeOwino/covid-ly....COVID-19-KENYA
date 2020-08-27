@@ -65,6 +65,6 @@
   </tbody>
 </table>
 
-<a href="https://mikeowino.com/jekyll_game/" target="_blank"><b><h1>mikeowino.com</h1></b></a>
+<a href="https://mikeowino.com/jekyll_game/" target="_parent"><b><h1>mikeowino.com</h1></b></a>
 
 
