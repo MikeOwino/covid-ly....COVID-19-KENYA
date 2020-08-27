@@ -68,7 +68,7 @@
 <a href="https://mikeowino.com/jekyll_game/" target="_parent"><b><h1>mikeowino.com</h1></b></a>
 
 
-# 🦠 Covid-ly <img src="https://image.flaticon.com/icons/svg/197/197608.svg" width="13"/>
+# 🦠 Covid-ly <img src="https://image.flaticon.com/icons/svg/197/197608.svg" width="30"/>
 
 [**@coronaviruskenyabot**](https://t.me/coronaviruskenyabot) is a Telegram bot that tracks the worldwide spread of the COVID-19 disease.
 
